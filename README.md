@@ -30,6 +30,18 @@ amigo-secreto/
 	│── assets/           # Carpeta con imágenes y videos
 	└── README.md         # Documentación del proyecto
 
+🛠️ Tecnologías utilizadas
+
+	HTML5 → estructura del proyecto.
+	CSS3 → estilos y diseño responsivo.
+	JavaScript (Vanilla) → lógica del juego (arrays, DOM, sorteo aleatorio).
+
+📚 Conceptos aplicados
+	Manipulación del DOM con document.getElementById y innerHTML.
+	Arrays en JavaScript (push, bucles for, validaciones con some).
+	Generación de números aleatorios (Math.random, Math.floor).
+	Validaciones de entrada de usuario.
+
 
  
 📜 Licencia
