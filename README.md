@@ -16,7 +16,7 @@ Con esta aplicación puedes registrar los nombres de los participantes y realiza
 
 Clona este repositorio:
 
-	git clone https://github.com/tu-usuario/AMIGO-SECRETO.git
+	git clone https://github.com/CrisisRss/AMIGO-SECRETO.git
 	Abre el proyecto en tu editor favorito (VS Code recomendado).
 	Ejecuta el archivo index.html en tu navegador.
 	O bien, utiliza la extensión Live Server para un refresco automático.
